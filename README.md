@@ -1,4 +1,4 @@
-**Chat App**
+Chat App
 A simple real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for real-time communication.
 
 Features
