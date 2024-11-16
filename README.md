@@ -45,6 +45,17 @@ cd frontend
 npm install  
 ```
 
+## Configuration
+
+```bash
+touch ./.env
+# copy the content of .env.example to .env
+
+touch ./frontend/.env
+# copy the content of .env.example to ./frontend/.env
+
+```
+
 Start the app:
 
 ```bash
