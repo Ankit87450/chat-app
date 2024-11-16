@@ -45,7 +45,7 @@ cd frontend
 npm install  
 ```
 
-## Configuration
+Configuration
 
 ```bash
 touch ./.env
