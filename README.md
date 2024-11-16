@@ -1,4 +1,4 @@
-# Chat App
+**Chat App**
 A simple real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for real-time communication.
 
 Features
@@ -30,33 +30,32 @@ Install dependencies:
 bash
 Copy code
 
-# For backend  
+## For backend  
 
-cd server  
 npm install  
 
-# For frontend  
+## For frontend  
 
-cd ../client  
+cd frontend  
 npm install  
 
 Start the app:
 
-bash
-Copy code
+```bash
 
 # Start backend  
 
-cd server  
+cd backend  
 npm start  
 
 # Start frontend  
 
-cd ../client  
 npm start  
 Open the app in your browser at <http://localhost:3000>.
+```
 
-Usage
+## Usage
+
 Register or log in.
 Enter a chat room.
 Start chatting in real-time!
