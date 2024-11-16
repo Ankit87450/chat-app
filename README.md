@@ -1,33 +1,34 @@
-**Chat App**
+# Chat App
 A simple real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for real-time communication.
 
-Features
+## Features
 Real-time messaging using Socket.IO.
 User registration and login.
 Basic chat room functionality.
 
-Tech Stack
+## Tech Stack
 Frontend: React
 Backend: Node.js, Express
 Database: MongoDB
 Real-time Communication: Socket.IO
 
-Getting Started
+## Getting Started
 Prerequisites
 Node.js installed
 MongoDB instance (local or cloud)
 
-Installation
+## Installation
 Clone the repository:
 
-bash
-Copy code
+
+```bash
 git clone <https://github.com/your-repo/chat-app.git>  
 cd chat-app  
+```
 
 Install dependencies:
 
-bash
+```bash
 Copy code
 
 ## For backend  
@@ -38,6 +39,7 @@ npm install
 
 cd frontend  
 npm install  
+```
 
 Start the app:
 
