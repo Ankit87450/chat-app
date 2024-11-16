@@ -26,14 +26,13 @@ MongoDB instance (local or cloud)
 Clone the repository:
 
 ```bash
-git clone <https://github.com/your-repo/chat-app.git>  
+git clone <https://github.com/Ankit87450/chat-app.git>  
 cd chat-app  
 ```
 
 Install dependencies:
 
 ```bash
-Copy code
 
 ## For backend  
 
@@ -45,14 +44,14 @@ cd frontend
 npm install  
 ```
 
-Configuration
+## Configuration
 
 ```bash
-touch ./.env
-# copy the content of .env.example to .env
+touch .env
+# copy the content of .env.example backend part to .env
 
 touch ./frontend/.env
-# copy the content of .env.example to ./frontend/.env
+# copy the content of .env.example frontend part to ./frontend/.env
 
 ```
 
